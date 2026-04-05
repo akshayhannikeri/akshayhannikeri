@@ -1,6 +1,6 @@
 # Hi, I'm Akshay Hannikeri 👋
 
-### Data Analyst | Excel | SQL | Power BI | Python | Statistics
+### Data Management Support Analyst | Excel | SQL | Power BI | Python | Statistics
 
 I am a Data Analyst with 4+ years of experience in data analytics, reporting, and dashboard development. I specialize in transforming raw data into actionable business insights using Excel, SQL, Power BI, and Python.
 
